@@ -1,2 +1,2 @@
-# 8_Puzzle_Solver_CSC_173
-A project required by Mr. Malik Maulana
+# 8-Puzzle Game solved using BFS and A* Search Algorithm
+
